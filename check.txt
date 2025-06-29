@@ -1,6 +1,11 @@
  https://github.com/shaqibraja/tesing.git
  
  check.txt
+<<<<<<< HEAD
  
  
  totois
+=======
+
+this is for pull
+>>>>>>> ea999d0ac0e8ff3399c4a4d0107d0a3732986f52
